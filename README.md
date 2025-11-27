@@ -2,6 +2,11 @@
 
 SafariSense is a location-aware, voice-first audio guide for Kenya’s sites and parks. It uses GPS plus an AI assistant to deliver short narrations, handle live Q&A, and adapt content to the visitor’s exact position.
 
+<img width="1920" height="888" alt="image" src="https://github.com/user-attachments/assets/663a9842-ed0a-40c0-8d17-2838d462fe7d" />
+
+<img width="1920" height="957" alt="image" src="https://github.com/user-attachments/assets/90b6e205-6e12-43b5-bd75-22818b025edc" />
+
+
 ## What it does
 - **Location-aware stories:** Plays site- and POI-specific narration as you move (geofence triggers).
 - **Push-to-talk Q&A:** Hold the mic, ask a question, get a concise answer; barge-in cancels current speech.
